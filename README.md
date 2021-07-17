@@ -21,8 +21,28 @@ Token Symbol: CAPE
 Decimal: 9
 
 # Market Id
-Serum DEX: https://dex.projectserum.com/#/market/85CTDt8gNfJhmqE3Xm2smDm54HmeT1jvLfPVBTkX8BTX
+> Add Custom Market ID for CAPE/USDC pair
+> Market Id : 85CTDt8gNfJhmqE3Xm2smDm54HmeT1jvLfPVBTkX8BTX
+> Market Label : CAPE/USDC
+> Base Label : CAPE
 
-CATO-DEX: https://catodex.com/#/market/85CTDt8gNfJhmqE3Xm2smDm54HmeT1jvLfPVBTkX8BTX
+Serum DEX:
+https://dex.projectserum.com/#/market/85CTDt8gNfJhmqE3Xm2smDm54HmeT1jvLfPVBTkX8BTX
 
-Cheesesoda DEX: https://dex.cheesesoda.com/#/market/85CTDt8gNfJhmqE3Xm2smDm54HmeT1jvLfPVBTkX8BTX
+CATO-DEX:
+https://catodex.com/#/market/85CTDt8gNfJhmqE3Xm2smDm54HmeT1jvLfPVBTkX8BTX
+
+Cheesesoda DEX:
+https://dex.cheesesoda.com/#/market/85CTDt8gNfJhmqE3Xm2smDm54HmeT1jvLfPVBTkX8BTX
+
+Sonar DEX:
+https://dex.sonar.watch/#/market/85CTDt8gNfJhmqE3Xm2smDm54HmeT1jvLfPVBTkX8BTX
+
+Dexlab DEX:
+https://trade.dexlab.space/#/market/85CTDt8gNfJhmqE3Xm2smDm54HmeT1jvLfPVBTkX8BTX
+
+Pigeon DEX:
+https://dex.pigeonsol.xyz/#/market/85CTDt8gNfJhmqE3Xm2smDm54HmeT1jvLfPVBTkX8BTX
+
+Kermit DEX:
+https://kermit.exchange/#/market/85CTDt8gNfJhmqE3Xm2smDm54HmeT1jvLfPVBTkX8BTX
